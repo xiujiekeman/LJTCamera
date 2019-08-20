@@ -1,0 +1,6 @@
+framework module LJTCamera {
+  umbrella header "LJTCamera-umbrella.h"
+
+  export *
+  module * { export * }
+}

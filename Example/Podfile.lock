@@ -1,0 +1,16 @@
+PODS:
+  - LJTCamera (0.1.0)
+
+DEPENDENCIES:
+  - LJTCamera (from `../`)
+
+EXTERNAL SOURCES:
+  LJTCamera:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  LJTCamera: 4601c13510e77b85314a9c52fa0a239d827742dd
+
+PODFILE CHECKSUM: b54dfbb9cea063e27f48b5e80fe7e4d83344f56a
+
+COCOAPODS: 1.6.1
